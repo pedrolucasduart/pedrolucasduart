@@ -2,7 +2,7 @@
 
 `Desenvolvedor Back-End`
 
-<p align="left">Sou estudante de Ciência da Computação, apaixonado por tecnologia e futebol, sempre em busca de aprendizado contínuo. Meu objetivo é me especializar em desenvolvimento de software, com foco em back-end, criando soluções eficientes e bem estruturadas.</p>
+<p align="left">Sou estudante de Ciência da Computação, apaixonado por tecnologia, sempre em busca de aprendizado contínuo. Meu objetivo é me especializar em desenvolvimento de software, com foco em back-end, criando soluções eficientes e bem estruturadas.</p>
 
 ## 📊 Estatísticas
 <div align="left">
